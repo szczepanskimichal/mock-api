@@ -29,6 +29,76 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 101,
+      "category": "education",
+      "title": "JavaScript Basics Workshop",
+      "description": "Learn the fundamentals of JavaScript programming.",
+      "location": "Code Hub",
+      "date": "February 5, 2022",
+      "time": "09:00",
+      "organizer": "Dev Masters"
+    },
+    {
+      "id": 102,
+      "category": "health",
+      "title": "Morning Yoga in the Park",
+      "description": "Start your day with relaxing outdoor yoga.",
+      "location": "Green Park",
+      "date": "April 2, 2022",
+      "time": "08:00",
+      "organizer": "Zen Flow"
+    },
+    {
+      "id": 103,
+      "category": "technology",
+      "title": "Intro to Vue.js",
+      "description": "Build your first application using Vue.js.",
+      "location": "Tech Center",
+      "date": "May 18, 2022",
+      "time": "17:00",
+      "organizer": "Frontend Society"
+    },
+    {
+      "id": 104,
+      "category": "music",
+      "title": "Local Bands Night",
+      "description": "Enjoy live performances from local bands.",
+      "location": "Sound Club",
+      "date": "June 10, 2022",
+      "time": "20:00",
+      "organizer": "Music Lovers"
+    },
+    {
+      "id": 105,
+      "category": "art",
+      "title": "Street Art Exhibition",
+      "description": "Explore modern street art from local artists.",
+      "location": "Downtown Gallery",
+      "date": "August 3, 2022",
+      "time": "18:00",
+      "organizer": "Urban Arts"
+    },
+    {
+      "id": 106,
+      "category": "sports",
+      "title": "Community Fun Run",
+      "description": "Join a 5km fun run for all skill levels.",
+      "location": "River Walk",
+      "date": "September 12, 2022",
+      "time": "07:30",
+      "organizer": "Run Together"
+    },
+    {
+      "id": 107,
+      "category": "environment",
+      "title": "Tree Planting Day",
+      "description": "Help us plant trees and make the city greener.",
+      "location": "North Forest",
+      "date": "October 9, 2022",
+      "time": "10:00",
+      "organizer": "Green Future"
     }
   ]
 }
